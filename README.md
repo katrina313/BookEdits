@@ -1,1 +1,1 @@
-# BookEdits
+# Admin - Booklist or ReadingList edits
